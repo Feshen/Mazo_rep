@@ -1,3 +1,7 @@
 body {
 	background-color: #fff;
+	-webkit-column-rule: ;
+	-moz-column-rule: ;
+	-o-column-rule: ;
+	column-rule: ;
 }
